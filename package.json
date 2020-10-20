@@ -1,11 +1,11 @@
 {
     "name": "@mycloudcinema/projectx-base-minimal",
     "description": "Files which are used to bootstrap a application which uses the Project X Framework",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "license": "MIT",
     "author": "Greg Bridle",
     "contributors": [
-		"My Cloud Cinema <mycloudcinema@remek.com> (https://mycloudcinema.com/)"
+        "My Cloud Cinema <mycloudcinema@remek.com> (https://mycloudcinema.com/)"
     ],
     "babel": {
         "presets": [
@@ -22,14 +22,14 @@
         "node": ">= 6.0"
     },
     "scripts": {},
-    "_from": "@mycloudcinema/projectx-base-minimal@0.0.2",
+    "_from": "projectx-reactjs@0.0.3",
     "_npmVersion": "1.4.28",
     "_npmUser": {
-		"name": "mycloudcinema",
-	    "email": "mycloudcinema@remek.com"
+        "name": "mycloudcinema",
+        "email": "mycloudcinema@remek.com"
     },
     "maintainers": [
-		"My Cloud Cinema <mycloudcinema@remek.com>"
+        "My Cloud Cinema <mycloudcinema@remek.com>"
     ],
     "dist": {},
     "directories": {},
@@ -40,12 +40,12 @@
         "Application",
         "Framework"
     ],
-	"repository": {
-      "type": "git",
-      "url": "git+https://github.com/mycloudcinema/projectx-base-minimal.git"
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mycloudcinema/projectx-base-minimal.git"
     },
     "bugs": {
-      "url": "https://github.com/mycloudcinema/projectx-base-minimal/issues"
+        "url": "https://github.com/mycloudcinema/projectx-base-minimal/issues"
     },
     "homepage": "https://github.com/mycloudcinema/projectx-base-minimal#readme"
 }
