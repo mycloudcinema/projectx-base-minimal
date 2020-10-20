@@ -1,0 +1,46 @@
+{
+    "name": "projectx-base-minimal",
+    "description": "Files which are used to bootstrap a application which uses the Project X Framework",
+    "version": "0.0.1",
+    "license": "MIT",
+    "author": "Greg Bridle",
+    "contributors": [
+        "Greg Bridle <greg@remek.com> (https://remek.com/)"
+    ],
+    "babel": {
+        "presets": [
+            "es2015",
+            "react"
+        ]
+    },
+    "dependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-preset-es2015": "^6.24.1",
+        "babel-preset-react": "^6.24.1",
+        "babel-preset-react-app": "^3.1.2",
+        "babel-preset-stage-2": "^6.24.1",
+        "simple-git": "^2.21.0"
+    },
+    "engines": {
+        "node": ">= 6.0"
+    },
+    "scripts": {},
+    "_from": "projectx-base-minimal@0.0.1",
+    "_npmVersion": "1.4.28",
+    "_npmUser": {
+        "name": "Greg Bridle",
+        "email": "greg@remek.com"
+    },
+    "maintainers": [
+        "Greg Bridle <greg@remek.com>"
+    ],
+    "dist": {},
+    "directories": {},
+    "keywords": [
+        "ProjectX",
+        "AngularJS",
+        "NodeJS",
+        "Application",
+        "Framework"
+    ]
+}
